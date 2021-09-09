@@ -3,7 +3,7 @@ package Labyrinth;
 public class TempTest {
 
 	public static void main(String[] args) {
-		new StartScreen();
+		new Labyrinth.StartScreen();
 
 		new Music();
 		Music.playBackgroundMusic();
